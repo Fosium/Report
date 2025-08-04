@@ -2,7 +2,7 @@ In high school, my friend and I investigated and documented serious issues in th
 
 The IT department was unhappy, but with the support of the public and IT experts, our report was key in closing the security gaps the district had.
 
-This version of the report is redacted, the full version was sent directly to the IT department for the problems to be addressed.
+This version of the report is redacted, the full version was sent directly to the IT department for the problems to be addressed. Interestingly, almost no one seems to understand the full story with all the nuance, but we were young and our high-school-aged inexperience is partially to blame.
 
 Links:<br>
 [MPR]: https://www.mprnews.org/story/2023/06/02/minneapolis-students-use-rickroll-prank-to-highlight-district-computer-security-flaws<br>
